@@ -1,0 +1,34 @@
+2022-09-30 16:16:53,447  INFO [main] SauceDemotejasV5:36 - open browser
+2022-09-30 16:16:54,585  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:16:54,841  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:16:54,981  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:16:55,140  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:17:03,578  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:17:03,747  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:17:03,880  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:17:04,039  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:17:20,702  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:17:20,857  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:17:21,002  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:17:21,120  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:17:44,221  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:17:44,381  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:17:44,495  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:17:44,599  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:20:50,231  INFO [main] SauceDemotejasV5:36 - open browser
+2022-09-30 16:20:51,711  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:20:52,299  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:20:52,580  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:20:52,824  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:21:01,531  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:21:01,795  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:21:01,973  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:21:02,207  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:21:19,198  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:21:19,435  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:21:19,611  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:21:19,751  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-09-30 16:21:43,497  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-09-30 16:21:43,716  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-09-30 16:21:43,886  INFO [main] SauceDemotejasV5:65 - send Password
+2022-09-30 16:21:44,028  INFO [main] SauceDemotejasV5:68 - login succesfull
